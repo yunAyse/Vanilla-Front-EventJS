@@ -1,4 +1,4 @@
-# Vanilla-01-EventJS
+# Vanilla-Front-EventJS
 
 # Les événements JavaScript
 
