@@ -16,7 +16,7 @@ Vidéo : [JavaScript côté navigateur : Les écouteurs d'événements](https://
 À partir de vos connaissances en Javascript, CSS et HTML, faire les exercices suivants :
 
 
-## **🔳 Quadrillage coloré :**
+### **🔳 Quadrillage coloré :**
 
 
 
