@@ -1,20 +1,12 @@
 const boxes = document.querySelectorAll('.box');
-
-// console.log(boxes)
-// box.onclick = () => {
-
-// }
-
+const colors = ['#6497b1', '#cef3c4', '#4c3642']
 
 boxes.forEach(box =>
   box.onclick = () => {
-    box.style.backgroundColor = '#6497b1' ;
+    box.style.backgroundColor = '' ;
   }
   
 );
-
-for (let i = 0; i <= boxes.length; i += 1) {
-    
 
 
 
